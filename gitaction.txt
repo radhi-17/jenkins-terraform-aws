@@ -1,0 +1,7 @@
+curl -u "radhi-17" https://api.github.com/user/repos -d '{"name":"repositoryname"}'
+git clone
+git branch
+git add 
+git commit -m ""
+git branch -M branch name
+git push -u origin branchname
